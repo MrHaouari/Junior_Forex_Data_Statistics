@@ -338,7 +338,6 @@ python -m unittest test_forex_pl_calculator_cross.py -v
 
 ## 📷 Screenshots
 
-> *Placeholder: Add application screenshots to an `assets/` or `screenshots/` directory when publishing.*
 
 | Dashboard & Data Table | Price Chart (OHLC + MAs) |
 | :---: | :---: |
