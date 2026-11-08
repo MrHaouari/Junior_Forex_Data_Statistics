@@ -342,15 +342,15 @@ python -m unittest test_forex_pl_calculator_cross.py -v
 
 | Dashboard & Data Table | Price Chart (OHLC + MAs) |
 | :---: | :---: |
-| ![Data Table Placeholder](https://via.placeholder.com/600x380/0b0e1a/7f5af0?text=Data+Table+%26+Statistics) | ![Price Chart Placeholder](https://via.placeholder.com/600x380/0b0e1a/00d084?text=Candlestick+Chart+%2B+Moving+Averages) |
+| ![Data Table Placeholder](./screenshots/data_table.png) | ![Price Chart Placeholder](./screenshots/candle.png) |
 
 | Lot Size Calculator | P/L Target Calculator |
 | :---: | :---: |
-| ![Lot Size Calculator Placeholder](https://via.placeholder.com/600x380/0b0e1a/7f5af0?text=Lot+Size+Calculator) | ![P/L Calculator Placeholder](https://via.placeholder.com/600x380/0b0e1a/00e5ff?text=P%2FL+Target+Calculator) |
+| ![Lot Size Calculator Placeholder](./screenshots/Lot_size.png) | ![P/L Calculator Placeholder](./screenshots/PL_TARGET.png) |
 
 | O-O Frequency & Bands | Statistic Resume View |
 | :---: | :---: |
-| ![O-O Distribution Placeholder](https://via.placeholder.com/600x380/0b0e1a/7f5af0?text=Distribution+%26+Volatility+Bands) | ![Statistic Resume Placeholder](https://via.placeholder.com/600x380/0b0e1a/d4d4dc?text=Statistic+Resume+Dashboard) |
+| ![O-O Distribution Placeholder](./screenshots/OO_Distr.png) | ![Statistic Resume Placeholder](./screenshots/Stats_resume.png) |
 
 ---
 
