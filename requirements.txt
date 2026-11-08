@@ -1,0 +1,5 @@
+customtkinter>=5.2
+yfinance>=0.2
+pandas>=2.0
+matplotlib>=3.7
+
